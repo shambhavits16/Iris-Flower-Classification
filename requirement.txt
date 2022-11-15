@@ -5,5 +5,4 @@ scipy
 matplotlib
 seaborn
 pandasql
-TensorFlow
 flasks
